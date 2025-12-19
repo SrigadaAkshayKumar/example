@@ -10,6 +10,24 @@
 
 # production
 /build
+# ---------------- Python ----------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environments
+venv/
+env/
+.venv/
+
+# Python tooling
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.ipynb_checkpoints/
+
+# Local config / secrets
+*.env
 
 # misc
 .DS_Store
