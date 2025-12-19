@@ -1,5 +1,3 @@
-# Akshay kumar
-
 # Role Based Login and Registraion Auth Flow
 
 ## Features Implemented
